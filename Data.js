@@ -1,0 +1,27 @@
+export const times = [
+    { time: '12 AM',events: [] },
+    { time: '1 AM', events: [] },
+    { time: '2 AM', events: [] },
+    { time: '3 AM', events: [] },
+    { time: '4 AM', events: [] },
+    { time: '5 AM', events: [] },
+    { time: '6 AM', events: [] },
+    { time: '7 AM', events: [] },
+    { time: '8 AM', events: [] },
+    { time: '9 AM', events: [] },
+    { time: '10 AM', events: [] },
+    { time: '11 AM', events: [] },
+    { time: '12 PM', events: [] },
+    { time: '1 PM', events: [] },
+    { time: '2 PM', events: [] },
+    { time: '3 PM', events: [] },
+    { time: '4 PM', events: [] },
+    { time: '5 PM', events: [] },
+    { time: '6 PM', events: [] },
+    { time: '7 PM', events: [] },
+    { time: '8 PM', events: [] },
+    { time: '9 PM', events: [] },
+    { time: '10 PM', events: [] },
+    { time: '11 PM', events: [] }
+  ]
+  
